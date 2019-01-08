@@ -2,7 +2,7 @@
 
 Squid is just a space to test Github Pages.
 Architect theme has been chosen for these tests.
-We can go further by adding a new [page](./test)
+We can go further by adding a new [page](https://arnaudswail.github.io/squid/test).
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
