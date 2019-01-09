@@ -2,8 +2,6 @@
 title: FabLab, c'est quoi?
 ---
 
-[La FABrique](https://www.lafabriqueduloch.org/fr/la-fabrique/)
-
 ## Un Fablab, c'est quoi ?
 C’est à la fois un lieu de fabrication d’objets et de partage de connaissances.
 
@@ -43,3 +41,6 @@ Les concepts et les processus développés dans les fablabs doivent demeurer uti
 Des activités commerciales peuvent être incubées dans les fablabs, mais elles ne doivent pas faire obstacle à l’accès ouvert. Elles doivent se développer au-delà du lab plutôt qu’en son sein et de bénéficier à leur tour aux inventeurs, aux labs et aux réseaux qui ont contribué à leur succès.
 
 [Charte Original des Fablabs en Anglais](http://fab.cba.mit.edu/about/charter/)
+
+
+[La FABrique du Loch](https://www.lafabriqueduloch.org/fr/la-fabrique/)
