@@ -19,9 +19,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Pour créer un bloc de code.
 (Certains éditeurs comme Atom, vous permettent de créer un bloc de code en tapant uniquement "code" sur une seule ligne.
 Le bloc sera automatiquement créé).
-
-L'occasion de voir le texte de cette propre page!
 ```
+
 # Titre 1
 ## Titre 2
 ### Titre 3
@@ -34,8 +33,10 @@ L'occasion de voir le texte de cette propre page!
 
 Texte en **Gras** ou _Italique_ ou `Code`
 
-```
 
+Et ces styles sont obtenus très simplement par quelques caractères spéciaux:
+
+```
 # Titre 1
 ## Titre 2
 ### Titre 3
@@ -54,7 +55,7 @@ Texte en **Gras** ou _Italique_ ou `Code`
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Themes (Jekyll)
-Pour que ces fichiers apparaissent sur GitHub Pages, il faut que
+Pour que ces fichiers apparaissent sur GitHub Pages, on applique un style au texte écrit en markdown.
 
 Il est possible de changer le thème pour la décoration de ces fichiers en suivant les instructions suivantes:
 
@@ -65,4 +66,4 @@ The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 ```
 
 Allons plus loin en regardant ce qu'il est possible de faire avec cette page:
-[La Fabrique du Loch](https://arnaudswail.github.io/squid/test).
+[La Fabrique du Loch](https://arnaudswail.github.io/squid/fabloch).
