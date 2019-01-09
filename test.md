@@ -19,11 +19,11 @@ Aux groupes scolaires qui cherchent à réaliser un projet.
 
 ### La charte des Fab Labs
 Afin de porter l’appellation de « FabLab », la structure doit entre autres respecter la charte des FabLabs, mise en place par le MIT.
-Mission
-Education
-Responsabilité
-Secret
-Restrictions
+- Mission
+- Education
+- Responsabilité
+- Secret
+- Restrictions
 
 Les fablabs sont rassemblés en réseau mondial de laboratoires locaux. Ils rendent l’invention possible en ouvrant aux individus l’accès à des outils à commande numérique.
 Vous pouvez utiliser le fab lab pour fabriquer à peu près n’importe quoi (dès lors que cela ne nuit à personne). Vous devez apprendre à le fabriquer par vous-même et vous devez partager l’usage du lab avec les autres utilisateurs. La formation dans le fab lab s’appuie sur des projets et sur  l’apprentissage par les pairs. Vous devez prendre part à la capitalisation des connaissances et à l’instruction des autres utilisateurs.
