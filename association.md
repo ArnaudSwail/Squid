@@ -16,8 +16,6 @@ Site de la mairie
 Le règlement intérieur
 
 
-
-
 ## Les fondateurs
 L’idée est née en 2014 sous l’impulsion de quatre amis
 - Patrick Jullien préparateur de bateaux de course,
