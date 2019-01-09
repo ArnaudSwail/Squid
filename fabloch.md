@@ -7,7 +7,7 @@ C’est à la fois un lieu de fabrication d’objets et de partage de connaissan
 
 Un fab lab (contraction de l’anglais "fabrication laboratory", laboratoire de fabrication) est un lieu ouvert au public où sont mis à disposition des outils de toutes sortes, notamment des machines-outils pilotées par ordinateur, pour la conception et la réalisation d’objets. Un fab lab, c'est aussi un lieu d'échanges et de partage des connaissances où toute personne, quels que soient son niveau de connaissance et ses moyens, peut venir se servir des machines mises à disposition pour réaliser ses projets personnels, scolaires ou commerciaux.
 
-![Une construction participative](construction-adherents-960x750.jpg)
+![Une construction participative](assets/images/construction-adherents-960x750.jpg)
 
 ### A qui s’adresse la FABrique du Loch ?
 À tous ceux qui ont un projet à réaliser, qu’il soit gros ou petit, simple ou compliqué.
