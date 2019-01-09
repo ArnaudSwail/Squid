@@ -1,3 +1,7 @@
+---
+title: Squid, pour gérer la documentation du Fablab
+---
+
 ## Bienvenue sur la page du projet Squid
 
 Squid est un projet pour augmenter et normaliser le contenu numérique de la [Fabrique du Loch](http://www.lafabriqueduloch.org/).
