@@ -62,5 +62,12 @@ Texte en **Gras** ou _Italique_ ou `Code`
 Il est possible de créer des tableaux et bien d'autres éléments.
 Plus d'info (en anglais) sur le [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+Pour jouer sur la taille d'une image:
+```
+![test image size](/assets/images/juju-NB.jpg){:class="img-responsive"}
+![test image size](/assets/images/juju-NB.jpg){:height="50%" width="50%"}
+![test image size](/assets/images/juju-NB.jpg){:height="700px" width="400px"}
+```
+
 Allons plus loin en regardant ce qu'il est possible de faire avec des fichiers Markdown
 avec un exemple: [La Fabrique du Loch](https://arnaudswail.github.io/squid/fabloch).
