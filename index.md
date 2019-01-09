@@ -12,8 +12,20 @@ Une fois publié, le fichier est présenté sous forme de page web.
 Comme cette propre page!
 
 ### Markdown
-utilisant une syntaxe simple
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+En utilisant une syntaxe simple, il est possible de composer du texte structuré avec quelques conventions simples
+pour créer des mises en gras, en italique
+
+Texte en **Gras** ou _Italique_ ou `Code`
+
+# Titre 1
+## Titre 2
+### Titre 3
+
+- Liste
+- Non ordonnée
+
+1. Liste
+2. Numérotée
 
 ```markdown
 Pour créer un bloc de code.
@@ -21,22 +33,11 @@ Pour créer un bloc de code.
 Le bloc sera automatiquement créé).
 ```
 
-# Titre 1
-## Titre 2
-### Titre 3
-
-- Liste
-- Non ordonnée
-
-1. Liste
-2. Numérotée
-
-Texte en **Gras** ou _Italique_ ou `Code`
-
-
 Et ces styles sont obtenus très simplement par quelques caractères spéciaux:
 
 ```
+Texte en **Gras** ou _Italique_ ou `Code`
+
 # Titre 1
 ## Titre 2
 ### Titre 3
@@ -47,12 +48,14 @@ Et ces styles sont obtenus très simplement par quelques caractères spéciaux:
 1. Liste
 2. Numérotée
 
-Texte en **Gras** ou _Italique_ ou `Code`
+[Lien](url)
 
-[Lien](url) and ![Image](src)
+![Image](src)
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Il est possible de créer des tableaux et bien d'autres éléments.
+Pour aller plus loin, (en anglais) [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Themes (Jekyll)
 Pour que ces fichiers apparaissent sur GitHub Pages, on applique un style au texte écrit en markdown.
@@ -65,5 +68,5 @@ you have selected in your [repository settings](https://github.com/ArnaudSwail/S
 The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 ```
 
-Allons plus loin en regardant ce qu'il est possible de faire avec cette page:
-[La Fabrique du Loch](https://arnaudswail.github.io/squid/fabloch).
+Allons plus loin en regardant ce qu'il est possible de faire avec des fichiers Markdown
+en allant voir un exemple: [La Fabrique du Loch](https://arnaudswail.github.io/squid/fabloch).
