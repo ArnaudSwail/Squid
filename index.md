@@ -55,18 +55,7 @@ Texte en **Gras** ou _Italique_ ou `Code`
 ```
 
 Il est possible de créer des tableaux et bien d'autres éléments.
-Pour aller plus loin, (en anglais) [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Themes (Jekyll)
-Pour que ces fichiers apparaissent sur GitHub Pages, on applique un style au texte écrit en markdown.
-
-Il est possible de changer le thème pour la décoration de ces fichiers en suivant les instructions suivantes:
-
-```
-Your Pages site will use the layout and styles from the Jekyll theme
-you have selected in your [repository settings](https://github.com/ArnaudSwail/Squid/settings).
-The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-```
+Plus d'info (en anglais) sur le [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 Allons plus loin en regardant ce qu'il est possible de faire avec des fichiers Markdown
-en allant voir un exemple: [La Fabrique du Loch](https://arnaudswail.github.io/squid/fabloch).
+avec un exemple: [La Fabrique du Loch](https://arnaudswail.github.io/squid/fabloch).
