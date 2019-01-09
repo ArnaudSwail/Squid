@@ -42,5 +42,5 @@ Des activités commerciales peuvent être incubées dans les fablabs, mais elles
 
 [Charte Original des Fablabs en Anglais](http://fab.cba.mit.edu/about/charter/)
 
-
+Le Site du Fablab
 [La FABrique du Loch](https://www.lafabriqueduloch.org/fr/la-fabrique/)
