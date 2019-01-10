@@ -69,12 +69,19 @@ Les pages de ce projet sont gérées par Github Pages.
 
 Un dépôt Github a été créé: [Projet Squid](http://arnaudswail.github.io/squid/)
 
+Les fichiers .md sont stockés dans le dépôt et peuvent être éditer par plusieurs méthodes:
+- Directement sur le site Github.com
+- En récupérant les fichiers du dépôt sur son ordinateur; On modifie les fichiers localement
+puis on utilise Git (Github Desktop par exemple) pour télécharger les modification sur Github.com pour être prises en compte.
+
+Github utilise Jekyll un moteur de génération de pages HTML à partir des fichiers .md.
+
 ## Quelques exemples
 Allons plus loin avec quelques exemples de fichiers Markdown:
 - Une page du site web, [C'est quoi un Fablab?](https://arnaudswail.github.io/squid/fabloch)
 - Un document de l'association, [L'ordre du jour du prochain CA](CA_du_11_janvier_2019.md)
 
-[La Fabrique du Loch](https://arnaudswail.github.io/squid/association)
-[Le règlement intérieur](https://arnaudswail.github.io/squid/reglement)
-[Nos services](https://arnaudswail.github.io/squid/services)
-[Des liens utiles](liens)
+- [La Fabrique du Loch](https://arnaudswail.github.io/squid/association)
+- [Le règlement intérieur](https://arnaudswail.github.io/squid/reglement)
+- [Nos services](https://arnaudswail.github.io/squid/services)
+- [Des liens utiles](liens)
