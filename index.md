@@ -71,3 +71,8 @@ Pour jouer sur la taille d'une image:
 
 Allons plus loin en regardant ce qu'il est possible de faire avec des fichiers Markdown
 avec un exemple: [La Fabrique du Loch](https://arnaudswail.github.io/squid/fabloch).
+
+[La Fabrique du Loch](https://arnaudswail.github.io/squid/association)
+[C'est quoi un Fablab?](https://arnaudswail.github.io/squid/fabloch)
+[Le règlement intérieur](https://arnaudswail.github.io/squid/reglement)
+[Nos services](https://arnaudswail.github.io/squid/services)
