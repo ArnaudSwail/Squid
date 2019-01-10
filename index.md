@@ -69,10 +69,10 @@ Pour jouer sur la taille d'une image:
 ![test image size](/assets/images/juju-NB.jpg){:height="700px" width="400px"}
 ```
 
-Allons plus loin en regardant ce qu'il est possible de faire avec des fichiers Markdown
-avec un exemple: [La Fabrique du Loch](https://arnaudswail.github.io/squid/fabloch).
+Allons plus loin avec quelques exemples de fichiers Markdown:
+- Une page du site web, [C'est quoi un Fablab?](https://arnaudswail.github.io/squid/fabloch)
+- Un document de l'association, [L'ordre du jour du prochain CA](CA_du_11_janvier_2019.md)
 
 [La Fabrique du Loch](https://arnaudswail.github.io/squid/association)
-[C'est quoi un Fablab?](https://arnaudswail.github.io/squid/fabloch)
 [Le règlement intérieur](https://arnaudswail.github.io/squid/reglement)
 [Nos services](https://arnaudswail.github.io/squid/services)
