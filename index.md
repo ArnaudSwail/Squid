@@ -2,7 +2,7 @@
 title: Squid, pour gérer la documentation du Fablab
 ---
 
-## Bienvenue sur la page du projet Squid
+# Bienvenue sur la page du projet Squid
 
 Squid est un projet pour augmenter et normaliser le contenu numérique de la [Fabrique du Loch](http://www.lafabriqueduloch.org/).
 
@@ -16,7 +16,7 @@ Les fichiers .md sont des fichiers texte que l'on peut écrire simplement.
 Une fois publié, le fichier est présenté sous forme de page web.
 Comme cette propre page!
 
-### La syntaxe Markdown
+## La syntaxe Markdown
 En utilisant une syntaxe simple, il est possible de composer du texte structuré avec quelques conventions simples
 pour créer des mises en gras, en italique, des titres, des listes, inclure des liens, des images, des tableaux, etc.
 
@@ -64,6 +64,12 @@ Plus d'info (en anglais) sur le [GitHub Flavored Markdown](https://guides.github
 
 Quelques [astuces](tipstricks.md) pour mettre en page en utilisant Markdown
 
+## Github pages
+Les pages de ce projet sont gérées par Github Pages.
+
+Un dépôt Github a été créé: [Projet Squid](http://arnaudswail.github.io/squid/)
+
+## Quelques exemples
 Allons plus loin avec quelques exemples de fichiers Markdown:
 - Une page du site web, [C'est quoi un Fablab?](https://arnaudswail.github.io/squid/fabloch)
 - Un document de l'association, [L'ordre du jour du prochain CA](CA_du_11_janvier_2019.md)
