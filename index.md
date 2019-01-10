@@ -16,9 +16,9 @@ Les fichiers .md sont des fichiers texte que l'on peut écrire simplement.
 Une fois publié, le fichier est présenté sous forme de page web.
 Comme cette propre page!
 
-### Markdown
+### La syntaxe Markdown
 En utilisant une syntaxe simple, il est possible de composer du texte structuré avec quelques conventions simples
-pour créer des mises en gras, en italique
+pour créer des mises en gras, en italique, des titres, des listes, inclure des liens, des images, des tableaux, etc.
 
 Texte en **Gras** ou _Italique_ ou `Code`
 
@@ -59,25 +59,10 @@ Texte en **Gras** ou _Italique_ ou `Code`
 
 ```
 
-Il est possible de créer des tableaux et bien d'autres éléments.
+Il est aussi possible de créer des tableaux et bien d'autres éléments.
 Plus d'info (en anglais) sur le [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-Pour jouer sur la taille d'une image:
-```
-![test image size](/assets/images/juju-NB.jpg){:class="img-responsive"}
-![test image size](/assets/images/juju-NB.jpg){:height="50%" width="50%"}
-![test image size](/assets/images/juju-NB.jpg){:height="700px" width="400px"}
-```
-
-Pour remplacer des liens provenant d'un fichier html
-```
-En utilisant votre éditeur de texte, demander une recherche par expression régulière
-<a href="([^"]*)">([^<]*)</a>
-
-Puis appliquer le remplacement par
-[$2]($1)
-
-```
+Quelques [astuces](tipstricks.md) pour mettre en page en utilisant Markdown
 
 Allons plus loin avec quelques exemples de fichiers Markdown:
 - Une page du site web, [C'est quoi un Fablab?](https://arnaudswail.github.io/squid/fabloch)
@@ -86,4 +71,4 @@ Allons plus loin avec quelques exemples de fichiers Markdown:
 [La Fabrique du Loch](https://arnaudswail.github.io/squid/association)
 [Le règlement intérieur](https://arnaudswail.github.io/squid/reglement)
 [Nos services](https://arnaudswail.github.io/squid/services)
-[Des liens utiles](liens) 
+[Des liens utiles](liens)
