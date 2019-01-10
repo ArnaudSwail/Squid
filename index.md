@@ -6,9 +6,11 @@ title: Squid, pour gérer la documentation du Fablab
 
 Squid est un projet pour augmenter et normaliser le contenu numérique de la [Fabrique du Loch](http://www.lafabriqueduloch.org/).
 
-Il s'agit d'utiliser GitHub pour pérenniser l'ensemble de la documentation des projets du fablab,
-gérer l'information destinée au public (une simple url serait alors communiquée)
-ainsi que les pages dites statiques du site web de la Fabrique.
+Il s'agit d'utiliser GitHub pour
+- pérenniser l'ensemble de la documentation des projets du fablab,
+- gérer l'information destinée au public (une simple url serait alors communiquée)
+- ainsi que les pages dites statiques du site web de la Fabrique.
+
 
 En créant des fichiers .md, il est possible de créer des pages web alimentant un site partagé par les membres d'un groupe.
 
@@ -75,6 +77,7 @@ Les fichiers .md sont stockés dans le dépôt et peuvent être éditer par plus
 puis on utilise Git (Github Desktop par exemple) pour télécharger les modification sur Github.com pour être prises en compte.
 
 Github utilise Jekyll un moteur de génération de pages HTML à partir des fichiers .md.
+Parfois, une fois mis à jour sur le site, il faut attendre quelques minutes pour voir le fichier HTML modifié.
 
 ## Quelques exemples
 Allons plus loin avec quelques exemples de fichiers Markdown:
