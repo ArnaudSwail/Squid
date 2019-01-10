@@ -57,8 +57,7 @@
 ## Documentation issue d'autres fablabs
 ### Konk Ar Lab
 ![konkarlab](https://www.lafabriqueduloch.org/wp-content/uploads/2018/06/konkarlab.png){:width="200px"}
-<a href=https://www.konkarlab.bzh/realisations-tutos/"> Réalisations </a>       
-
+[Réalisations](https://www.konkarlab.bzh/realisations-tutos/)
 ### Maker Space 56
 ![MakerSpace](https://www.lafabriqueduloch.org/wp-content/uploads/2018/06/newlogo2.png){:width="200px"}
 [Réalisations ](http://makerspace56.org/category/tutoriel/)
