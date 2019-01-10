@@ -62,7 +62,6 @@ Texte en **Gras** ou _Italique_ ou `Code`
 [Lien](url)
 
 ![Image](src)
-
 ```
 
 Il est aussi possible de créer des tableaux et bien d'autres éléments.
