@@ -8,9 +8,8 @@ Squid est un projet pour augmenter et normaliser le contenu numérique de la [Fa
 
 Il s'agit d'utiliser GitHub pour
 - pérenniser l'ensemble de la documentation des projets du fablab,
-- gérer l'information destinée au public (une simple url serait alors communiquée)
+- gérer l'information destinée au public (une simple url serait alors communiquée),
 - ainsi que les pages dites statiques du site web de la Fabrique.
-
 
 En créant des fichiers .md, il est possible de créer des pages web alimentant un site partagé par les membres d'un groupe.
 
@@ -23,7 +22,7 @@ En utilisant une syntaxe simple, il est possible de composer du texte structuré
 pour créer des mises en gras, en italique, des titres, des listes, inclure des liens, des images, des tableaux, etc.
 
 
-### Quelques exemples de mise en pages
+### Quelques exemples de mise en page
 
 # Titre 1
 ## Titre 2
