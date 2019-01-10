@@ -67,7 +67,7 @@ Quelques [astuces](tipstricks.md) pour mettre en page en utilisant Markdown
 ## Github pages
 Les pages de ce projet sont gérées par Github Pages.
 
-Un dépôt Github a été créé: [Projet Squid](http://arnaudswail.github.io/squid/)
+Un dépôt Github a été créé: [Projet Squid](http://github.com/arnaudswail/squid/)
 
 Les fichiers .md sont stockés dans le dépôt et peuvent être éditer par plusieurs méthodes:
 - Directement sur le site Github.com
