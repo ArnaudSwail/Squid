@@ -12,7 +12,8 @@ Ce règlement à jour sera affiché dans les locaux du La FABrique du Loch.
 
 ## Article 1- Rôles et attribution des membres du bureau
 
-1-1 Le président représente l'association devant l'administration,
+### 1-1 Présidence
+Le président représente l'association devant l'administration,
 auprès des partenaires de l'association et devant le public.
 Le président représente aussi l'association en justice.
 Lors des Assemblées générales, des conseils d'administration et des
@@ -41,7 +42,8 @@ bureau peut déléguer la signature de ces contrats aux salariés.
 aux fins d’effectuer toutes démarches nécessaires à la constitution
 de l’association la Fabrique du Loch.
 
-1-2 Le secrétaire et, s'il y a lieu, un secrétaire-adjoint est essentiellement chargé de la tenue:
+### 1-2 Secrétariat
+Le secrétaire et, s'il y a lieu, un secrétaire-adjoint est essentiellement chargé de la tenue:
 - des différents registres de l’association,
 - de la rédaction des procès-verbaux des assemblées et des conseils d’administration qu’il signe afin de les certifier conformes.
 
@@ -49,7 +51,8 @@ Cette mission est importante car ces actes font foi jusqu’à preuve du contrai
 Il revient également au secrétaire de procéder aux déclarations obligatoires en préfecture, voire parfois de convoquer les différents organes de l’association.
 Plus généralement, il veille au bon fonctionnement matériel, administratif et juridique de l’association.
 
-1-3 Le trésorier et , si besoin est, un trésorier-adjoint partage souvent
+### 1-3 Trésorerie
+Le trésorier et , si besoin est, un trésorier-adjoint partage souvent
 avec le président la charge de tout ce qui concerne la gestion de
 l’association.
 Il dispose avec le président de la signature sur le compte bancaire de
@@ -62,22 +65,23 @@ de perte liée à un placement hasardeux (Com. 11 févr. 2014, n° 13-
 10.067).
 Il rend compte de sa gestion devant l’assemblée générale.
 
-1-4 Le Conseil d’Administration constitue le « vivier » du Bureau et si
-besoin, l’assiste dans son travail.
+### 1-4 Conseil d'Administration
+Le Conseil d’Administration constitue le « vivier » du Bureau et si besoin, l’assiste dans son travail.
 
-1-5 Le mode d’élection des membres du Conseil d’Administration
-et du Bureau est défini dans les statuts de l’association (articles 13 et
-14).
+### 1-5 Mode d'élection
+Le mode d’élection des membres du Conseil d’Administration et du Bureau est défini dans les statuts de l’association (articles 13 et 14).
 
-1-6 Les salariés ont les prérogatives du fabmanager citées en art 2-1 et
-de plus, ont en charge l’application des décisions du conseil
-d’administration de l’association. Le fabmanager reçoit délégation du
-président pour l’utilisation du compte bancaire.
+### 1-6 Salariés
+Les salariés ont les prérogatives du fabmanager citées en art 2-1 et de plus, ont en charge l’application des décisions du conseil
+d’administration de l’association.
+Le fabmanager reçoit délégation du président pour l’utilisation du compte bancaire.
+
 ## Article 2 : Usagers et fonctions
 
 ### 2-1 Le fabmanager
 Un fabmanager est un adhérent de l'association. Il est désigné par le
-Conseil d’administration. Il peut être salarié ou bénévole et assure les
+Conseil d’administration.
+Il peut être salarié ou bénévole et assure les
 fonctions :
 - d'ouvrir et fermer le local du fablab,
 - d'accueillir les adhérents et le public,
@@ -116,24 +120,21 @@ manifeste ou pour faute grave (mise en danger de la vie d’autrui ou nonrespect
 
 ## Article 3 : Séances
 Le FabLab propose plusieurs types de séances :
-- Des séances dites "atelier découverte", durant lesquelles tous les
-usagers extérieurs sont acceptés. Elles sont animées soit par les
-fabmanagers, soit par un ou des adhérents qu’ils auront désignés.
-- Des séances réservées à l'ensemble des adhérents, dites “atelier
-adhérents”.
-- Des séances dites “atelier pro” réservées aux adhérents abonnés
-(voir 2.3). Durant ces séances “atelier pro”, il peut y avoir des
-spécificités ou des restrictions additionnelles. Exemple : réservation
-par un adhérent ou un partenaire, séances de coworking durant
-lesquelles toutes les machines ne seront pas utilisables, etc.
+- Des séances dites "atelier découverte", durant lesquelles tous les usagers extérieurs sont acceptés.
+Elles sont animées soit par les fabmanagers, soit par un ou des adhérents qu’ils auront désignés.
+- Des séances réservées à l'ensemble des adhérents, dites “atelier adhérents”.
+- Des séances dites “atelier pro” réservées aux adhérents abonnés (voir 2.3).
+Durant ces séances “atelier pro”, il peut y avoir des spécificités ou des restrictions additionnelles.
+Exemple : réservation par un adhérent ou un partenaire, séances de coworking
+durant lesquelles toutes les machines ne seront pas utilisables, etc.
 Ces séances sont affichées sur le site internet du FabLab, sur la page
  « Horaires et accès »
-En dehors des périodes d'ouverture déclarées dans l'Agenda et dans la
-page “Horaires et accès”, le fabLab est fermé au public. Durant les
-périodes de fermeture au public, pourront accéder au fablab : les
+En dehors des périodes d'ouverture déclarées dans l'Agenda et dans la page “Horaires et accès”,
+le fabLab est fermé au public.
+Durant les périodes de fermeture au public, pourront accéder au fablab : les
 fabmanagers et les membres du Conseil d’administration.
-Lors des périodes de fermeture au public, un fabmanager peut admettre
-des usagers au sein du Fablab, sous sa responsabilité.
+Lors des périodes de fermeture au public, un fabmanager peut admettre des usagers au sein du Fablab, sous sa responsabilité.
+
 ## Article 4 : Règles de fonctionnement
 ### 4-1 Déclaration
 Dès lors que d'autres personnes que lui-même sont présentes au sein du
