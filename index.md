@@ -22,11 +22,14 @@ Comme cette propre page!
 En utilisant une syntaxe simple, il est possible de composer du texte structuré avec quelques conventions simples
 pour créer des mises en gras, en italique, des titres, des listes, inclure des liens, des images, des tableaux, etc.
 
-Texte en **Gras** ou _Italique_ ou `Code`
+
+### Quelques exemples de mise en pages
 
 # Titre 1
 ## Titre 2
 ### Titre 3
+
+Texte en **Gras** ou _Italique_ ou `Code`
 
 - Liste
 - Non ordonnée
@@ -35,12 +38,13 @@ Texte en **Gras** ou _Italique_ ou `Code`
 2. Numérotée
 
 ```markdown
-Pour créer un bloc de code.
+Voici un bloc de code.
 (Certains éditeurs comme Atom, vous permettent de créer un bloc de code en tapant uniquement "code" sur une seule ligne.
 Le bloc sera automatiquement créé).
 ```
 
-Et ces styles sont obtenus très simplement par quelques caractères spéciaux:
+
+Ces styles sont obtenus très simplement par quelques caractères spéciaux:
 
 ```
 Texte en **Gras** ou _Italique_ ou `Code`
