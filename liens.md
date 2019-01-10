@@ -58,6 +58,7 @@
 ### Konk Ar Lab
 ![konkarlab](https://www.lafabriqueduloch.org/wp-content/uploads/2018/06/konkarlab.png){:width="200px"}
 [Réalisations](https://www.konkarlab.bzh/realisations-tutos/)
+
 ### Maker Space 56
 ![MakerSpace](https://www.lafabriqueduloch.org/wp-content/uploads/2018/06/newlogo2.png){:width="200px"}
 [Réalisations ](http://makerspace56.org/category/tutoriel/)
@@ -67,14 +68,14 @@
 [ Tutoriels ](http://lowtechlab.org/wiki/Accueil)
 
 ### Fabrikerne
-![Fabrikerne](https://www.lafabriqueduloch.org/wp-content/uploads/2018/06/logo1.png){:width="405px" height="58px"}
+![Fabrikerne](https://www.lafabriqueduloch.org/wp-content/uploads/2018/06/logo1.png){:width="150px"}
 [ Tutoriels ](http://www.fabrikerne.fr/category/projets/)
 
 ### WikiFab
 ![WikiFab](https://www.lafabriqueduloch.org/wp-content/uploads/2018/06/wikfabi.png){:width="117px" height="50px"}
 
 ### FacLab
-![FacLab](https://www.lafabriqueduloch.org/wp-content/uploads/2018/06/faclab_logo_vecto_bleu.png){:width="197px" height="163px"}
+![FacLab](https://www.lafabriqueduloch.org/wp-content/uploads/2018/06/faclab_logo_vecto_bleu.png){:width="150px"}
 [ Wiki ](http://wikifab.fr)
 
 ### LaboMedia
