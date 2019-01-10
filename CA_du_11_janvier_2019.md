@@ -31,6 +31,7 @@ Ordre du jour
   [ ] super calculateur :Algoric
   [ ] squid: contenu numérique de La Fabrique
   [ ] Publication des Compte-rendus de CA sur le site
+  [ ] Relevé des projets toujours à l’étude, non poursuivis (2017, 2018)
 [ ] services civiques
 [ ] calendrier prévisionnel
 [ ] questions diverses
@@ -96,11 +97,26 @@ Le projecteur a été livré.
 
 le premier bloc de 96 cœurs  a été testé ce jour à la FABrique.
 La convention avec le CINES signée par la présidente de lfl a été transmise au CINES.
+A partir des documents (présentation et documents dropbox), ArnaudM a monté un Github Pages du projet: https://fabloch.github.io/algoric
 
-## Publication des Compte-rendus de CA sur le site
+## Squid: contenu numérique de La Fabrique
 
-ArnaudM a relu les CAs de 2017 et 2018. 
-Synthèse de sujets abordés lors des CA 2017-2018 et non poursuivis:
+La Fabrique du Loch utilise Github pour publier les codes open-source de ses projets.
+Github propose un service de création de pages web à partir de documents Markdown.
+La syntaxe Markdown est utilisée par le conseil d’administration dans le cadre de ces préparations et la restitution de ses réunions et par les adhérents dans le cadre de projets tels que la Sandbox.
+Le service Github Pages permet de créer des pages web à partir de documents markdown.
+Cette technique permettrait d’accélérer la création de contenu par la Fabrique du Loch.
+Une présentation du projet ici: https://arnaudswail.github.io/squid/
+
+**Publication des Compte-rendus de CA sur le site**
+Les Compte-Rendus des réunions du CA sont écrits en utilisant Dropbox Paper.
+Ils sont facilement exportables en fichiers Markdown, qui peuvent être importés dans un dépôt Github de La Fabrique du Loch.
+
+## Relevé de projets en suspens
+
+ArnaudM a relu les CAs de 2017 et 2018.
+
+Une synthèse de sujets abordés lors des CA 2017-2018, toujours en cours ou non poursuivis:
 [+Lecture des CA 2017-2018](https://paper.dropbox.com/doc/Lecture-des-CA-2017-2018-cSKxgIvYtkgLYFMsEt2D5) 
 
 # Services civiques
