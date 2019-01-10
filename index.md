@@ -69,6 +69,16 @@ Pour jouer sur la taille d'une image:
 ![test image size](/assets/images/juju-NB.jpg){:height="700px" width="400px"}
 ```
 
+Pour remplacer des liens provenant d'un fichier html
+```
+En utilisant votre éditeur de texte, demander une recherche par expression régulière
+<a href="([^"]*)">([^<]*)</a>
+
+Puis appliquer le remplacement par
+[$2]($1)
+
+```
+
 Allons plus loin avec quelques exemples de fichiers Markdown:
 - Une page du site web, [C'est quoi un Fablab?](https://arnaudswail.github.io/squid/fabloch)
 - Un document de l'association, [L'ordre du jour du prochain CA](CA_du_11_janvier_2019.md)
@@ -76,3 +86,4 @@ Allons plus loin avec quelques exemples de fichiers Markdown:
 [La Fabrique du Loch](https://arnaudswail.github.io/squid/association)
 [Le règlement intérieur](https://arnaudswail.github.io/squid/reglement)
 [Nos services](https://arnaudswail.github.io/squid/services)
+[Des liens utiles](liens) 
