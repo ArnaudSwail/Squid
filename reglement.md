@@ -259,12 +259,14 @@ d’Administration.
 horaires bleus.
 
 ### 6.4 Tarifs
+#### Machines
 - Tarifs de l’accès aux Ateliers pro : pour une demi-journée : 6
 euros (catégories 1 et 2), 15 euros (catégorie 3) ; pour 16 demijournées étalées sur 3 mois : 60 euros (catégories 1 et 2) et 120
 euros (catégorie 3) ; pour 32 demi-journées étalées sur 3 mois : 95
 euros (catégories 1 et 2) et 190 euros (catégorie 3).
 - Tableau des tarifs d'utilisation des équipements
-Formations / Initiation
+
+#### Formations / Initiation
 Le fablab dispense des formations aux machines et aux logiciels qui y sont liés.
 Ces formations nécessitent une inscription préalable (téléphone, mail, site).
 Le nombre des personnes en formation est limité par les fabmanagers pour des raisons
@@ -277,4 +279,4 @@ demandeurs d’emploi.
 
 ## Article 7 : Charte internet
 Toute utilisation des outils informatiques et du réseau du fablab implique
-l'acceptation de la Charte internet. 
+l'acceptation de la Charte internet.
