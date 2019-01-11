@@ -16,17 +16,17 @@ ou **Google Drive** utilisé depuis la gestation de l'association.
 Ainsi, pour la production de documents texte
 
 ## Le NAS, un serveur de fichier
-Un serveur de fichiers (NAS) est utilisé pour stocker localement les fichiers et les rendre acessible à
+Un serveur de fichiers (NAS) est utilisé pour **stocker localement** les fichiers et les rendre acessible à
 tous les ordinateurs de la Fabrique du Loch.
 
-L'accès depuis des ordinateurs distants a été étudié
-mais la garantie d'une sécurisation suffisante n'était pas démontrée.
+L'accès depuis des ordinateurs distants a été étudié mais la garantie d'une sécurisation suffisante n'était pas démontrée.
+Aussi, les documents du NAS ne sont **pas accessibles au public**.
 
 ## Les Newsletters
-Les newsletters sont produites mensuellement et remises aux membres sous forme d'une image.
+Les newsletters sont produites mensuellement et remises aux membres sous forme d'**une image**.
 Il est ainsi impossible de copier du texte provenant d'une newsletter.
 
 ## Le Site Web
-Développé sur la base d'un moteur WordPress, le site web est aujourd'hui difficile à maintenir.
+Développé sur la base d'un moteur WordPress, le site web est aujourd'hui **difficile à maintenir**.
 Les mises à jour fréquentes des nombreuses extensions utilisées peuvent bloquer la publication.
 Certains blocs n'apparaissent plus comme les machines ou les projets.
