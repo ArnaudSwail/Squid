@@ -11,6 +11,3 @@ puis on utilise Git (avec des outils comme Github Desktop par exemple) pour tél
 ## Jekyll, pour la mise en forme des documents
 Github utilise Jekyll un moteur de génération de pages HTML à partir des fichiers .md.
 Parfois, une fois mis à jour sur le site, il faut attendre quelques minutes pour voir le fichier HTML modifié.
-
-
-![github](assets/images/github.png)

@@ -20,6 +20,7 @@ Il s'agit d'utiliser GitHub et son service **Github Pages** pour
 
 Pour aller plus loin:
 - [La production numérique de la Fabrique aujourd'hui](aujourdhui)
+- [La solution proposée](solution)
 - [les avantages de la solution](avantages)
 - [Les fichiers Markdown](markdown) pour éditer du texte.
 - [Quelques astuces](tipstricks) pour la publication en markdown
