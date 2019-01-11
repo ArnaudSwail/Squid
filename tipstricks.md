@@ -14,3 +14,6 @@ En utilisant votre éditeur de texte, demander une recherche par expression rég
 Puis appliquer le remplacement par
 [$2]($1)
 ```
+
+Pour créer une ancre locale dans une longue page
+https://gist.github.com/asabaylus/3071099
