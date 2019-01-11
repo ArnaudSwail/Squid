@@ -17,7 +17,7 @@ Si les adhérents doivent rester relativement libres dans leur choix d'outils, i
 toutefois essentiel pour l'association d'augmenter le contenu publié.
 
 Il s'agit d'utiliser GitHub et son service **Github Pages** pour
-- pérenniser l'ensemble de la documentation des projets du fablab,
+- pérenniser la documentation des projets du fablab,
 - gérer l'information destinée au public (une simple url serait alors communiquée),
 - ainsi que les pages dites statiques du site web de la Fabrique.
 
