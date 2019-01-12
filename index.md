@@ -9,7 +9,7 @@ de la [Fabrique du Loch](http://www.lafabriqueduloch.org/).
 
 La production de contenu numérique à la Fabrique, comme bon nombre d'organisations aujourd'hui,
 est dispersée sur plusieurs outils. Nous utilisons aujourd'hui Dropbox Paper pour les documents écrits en collaboration
-par les membres du CA; les adhérents produisent des fichiers de code source pour leurs projets, parfois une documentation associée.
+par les membres du CA; les adhérents produisent des fichiers de code source pour leurs projets, parfois une documentation associée sous des formats divers (une feuille papier, un .txt, un .doc, un .ppt, ...).
 
 La production et la publication de ces données n'est aujourd'hui pas normée.
 

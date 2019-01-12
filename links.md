@@ -17,3 +17,6 @@ https://guides.github.com/features/mastering-markdown/
 
 [Pre-Fab Pages with Github's Automatic Page Generator]
 (https://dannguyen.github.io/github-for-portfolios/lessons/premanufactured-github-pages/)
+
+Comparing Confusing Terms in GitHub, Bitbucket, and GitLab
+https://about.gitlab.com/2016/01/27/comparing-terms-gitlab-github-bitbucket/
