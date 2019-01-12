@@ -1,5 +1,9 @@
 # Avantages de la solution
 
+## Une plus grande liberté pour les fabmanagers
+Les fabmanagers peuvent produire des pages pour le site web dans une structuration
+simple de fichiers stockés dans des répertoires.
+
 ## Liberté dans la gestion de la publication
 Les fichiers stockés dans un dépôt Github peuvent être utilisés sous diverses formes.
 Nous proposons une première exploitation par la production de pages web qui peuvent être
@@ -24,8 +28,3 @@ de la Fabrique du Loch par des publications pouvant être réutilisées par tous
 ## Un import direct depuis Dropbox Paper
 Dropbox Paper permet l'exportation du document créé en fichier markdown .md.
 Ces fichiers peuvent être importés directement sur la plateforme Github.
-
-# Note sur les espaces de travail collaboratifs
-Le CA et quelques projets utilisent **Dropbox Paper**.
-Il existe toutefois d'autres plateformes comme Framapad ou vu plus récemment
-[Pad-Numérique-en-commun](https://pad.numerique-en-commun.fr/).

@@ -11,3 +11,13 @@ puis on utilise Git (avec des outils comme Github Desktop par exemple) pour tél
 ## Jekyll, pour la mise en forme des documents
 Github utilise Jekyll un moteur de génération de pages HTML à partir des fichiers .md.
 Parfois, une fois mis à jour sur le site, il faut attendre quelques minutes pour voir le fichier HTML modifié.
+
+## Github
+Github est une collection de dépôts de code source.
+Chaque intervenant crée un compte. Il peut alors créer des dépôts dans son espace.
+Il peut être associé à une ou plusieurs organisations qui ont elle-mêmes leurs propres dépôts.
+Un intervenant peut être membre, collaborateur ou propriétaire d'une organisation.
+
+### Les étapes
+#### Création d'un compte Github
+#### Rattachement à l'organisation Fabrique du Loch
