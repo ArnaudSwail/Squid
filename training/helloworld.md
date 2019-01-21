@@ -21,6 +21,13 @@ et un moteur de génération de pages,
 ## Publication
 
 ### Template html
+Un template html définit le corps de la page. Les données des fichiers Markdown
+sont copiés dans le template pour créer une page web.
+
+Ces pages sont dites statiques.
+
+
+### Template css
 
 
 

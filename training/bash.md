@@ -1,8 +1,11 @@
+# bash
 
 
 
 https://stackoverflow.com/questions/10929453/read-a-file-line-by-line-assigning-the-value-to-a-variable
-
+https://stackoverflow.com/questions/24411185/splitting-string-separated-by-comma-into-array-values-in-shell-script
+https://stackoverflow.com/questions/3685970/check-if-a-bash-array-contains-a-value
+https://unix.stackexchange.com/questions/110645/select-lines-from-text-file-which-have-ids-listed-in-another-file
 
 ```
 
