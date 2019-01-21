@@ -14,8 +14,8 @@ Les documents créant le contenu de la Fabrique du Loch sont conservés en un se
 La plateforme permet la synchronisation simple avec le serveur de fichier (NAS) par git pull.
 
 ## Gestion des versions des documents
-Github est par excellence un outil de gestion de version. Il est possible de contrôler l'origine
-de chaque modification. Un numéro de version peut être ajouté à chaque document.
+Github est par excellence un outil de gestion de version. Il est possible de contrôler l'originede chaque modification.
+Un numéro de version peut être ajouté à chaque document.
 
 ## Sensibilisation à la gestion de code source
 Par code-source, on entend tout fichier produit par une personne en vue d'être interprété
