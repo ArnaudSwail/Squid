@@ -13,8 +13,8 @@ Ajouter des pages, des images
 
 - [Installer Jekyll](jekyll)
 - [Faire des scripts bash](bash)
-- [Installer python 3](python3)
-- [Installer la librairie géospatiale H3](h3)
+- [Installer python 3](python/python3)
+- [Installer la librairie géospatiale H3](python/h3)
 
 
 # Les langages, les extensions de fichiers de La Fabrique du Loch
