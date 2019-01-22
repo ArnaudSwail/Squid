@@ -24,10 +24,13 @@ Texte en **Gras** ou _Italique_ ou `Code`
 1. Liste
 2. Numérotée
 
-```markdown
+```
+
+markdown
 Voici un bloc de code.
 (Certains éditeurs comme Atom, vous permettent de créer un bloc de code en tapant uniquement "code" sur une seule ligne.
-Le bloc sera automatiquement créé).
+Le bloc sera automatiquement créé, voir plus bas).
+
 ```
 
 
@@ -55,3 +58,16 @@ Il est aussi possible de créer des tableaux et bien d'autres éléments.
 Plus d'info (en anglais) sur le [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 Quelques [astuces](tipstricks.md) pour mettre en page en utilisant Markdown
+
+### Avec Atom
+
+"code" crée un bloc de code
+```
+Du code dans ce bloc
+```
+
+"table" crée un tableau
+
+| Header One     | Header Two     |
+| :------------- | :------------- |
+| Item One       | Item Two       |
