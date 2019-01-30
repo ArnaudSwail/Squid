@@ -35,6 +35,8 @@ Edition github.md
 git push
 
 ```
+Pushing to origin
+
 
 ## Conflits
 Dans Atom, l'éditeur vous demande de choisir entre les deux version du bloc de texte

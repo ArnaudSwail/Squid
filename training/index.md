@@ -6,8 +6,7 @@ Créer un premier site web
 - [Hello World!](helloworld)
 
 Ajouter des pages, des images
-- [CountingLego](./lego/compter)
-
+- [Counting Lego](./lego/compter)
 
 # Quelques tutoriels
 

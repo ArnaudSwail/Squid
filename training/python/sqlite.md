@@ -1,5 +1,11 @@
 # sqlite (ou sqlite3 en python 3)
 
+## Quelques principes de base
+
+- [Les types de données Sqlite3 (VO)](https://www.sqlite.org/datatype3.html)
+- [Les index avec Sqlite3 (VO)](http://www.sqlitetutorial.net/sqlite-index/)
+
+
 ## Prérequis
 sqlite3 fait partie de l'installation de base de python 3
 
