@@ -73,7 +73,7 @@ pour produire une page web à partir des fichiers .md.
 
 [Fichier default.html](./_layouts/default.html)
 
-Dans ce fichier, identifier la section **{{ content }}**.
+Dans ce fichier, identifier la section **{ { content } }**.
 C'est elle qui injecte le contenu du fichier .md dans le code html.
 C'est ainsi que la page est construite!
 
