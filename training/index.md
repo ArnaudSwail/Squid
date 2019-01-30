@@ -31,14 +31,14 @@ par les cartographes.
 - [Utiliser sqlite3](python/sqlite)
 - [Installer la librairie géospatiale H3](python/h3)
 
-## L'univers impitoyable de javascript
+## L'univers impitoyable de **javascript**
 
 - Sur un serveur, [NodeJS](javascript/nodejs)
 - Pour une application desktop, [Electron](javascript/electron)
 - [OpenLayers](javascript/openlayers) pour faire de la cartographie sur le web
 - [Utiliser la librairie géospatiale H3](javascript/h3)
 
-# Les langages, les extensions de fichiers de La Fabrique du Loch
+## Les langages, les extensions de fichiers de La Fabrique du Loch
 
 - [Langages](langages)
 - [Extensions](extensions)
