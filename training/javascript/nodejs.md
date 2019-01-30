@@ -1,9 +1,10 @@
 # Node JS
 
 
-## Comprendre les module exports
+## Comprendre les module exports et autres requires
 
-[Understanding module exports](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+- [Understanding module exports](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+- [NodeJS require cannot find custom module](https://stackoverflow.com/questions/16652620/node-js-require-cannot-find-custom-module)
 
 ## Comment lire un fichier ligne par ligne
 
@@ -22,4 +23,4 @@ lineReader.on('line', function (line) {
 });
 ```
 
-[Read a file line by line](https://stackoverflow.com/questions/6156501/read-a-file-one-line-at-a-time-in-node-js)
+- [Read a file line by line](https://stackoverflow.com/questions/6156501/read-a-file-one-line-at-a-time-in-node-js)
