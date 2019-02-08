@@ -1,7 +1,8 @@
-# Jekyll
+# Jekyll sur votre machine
 
-## Installation
+# Pré-requis
 
+Installation de Bundler et Jekyll
 ```
 sudo gem install bundler jekyll
 
@@ -12,10 +13,8 @@ sudo gem install bundler jekyll
 
 jekyll new monsite
 cd my-awesome-site
-bundle exec jekyll serve
 
 ```
-
 ## Pour créer un site Jekyll à partir d'un répertoire existant
 
 Créer un fichier Gemfile et y placer les deux lignes suivantes:
@@ -31,4 +30,11 @@ Puis exécuter la commande :
 ```
 $ bundle install
 
+```
+
+## Pour lancer le site en local
+Aller dans le répertoire du site
+
+```
+$ bundle exec jekyll serve
 ```

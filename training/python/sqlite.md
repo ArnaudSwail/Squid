@@ -15,6 +15,11 @@ from sqlite3 import Error
 
 ```
 
+Créer une table si elle n'existe pas:
+```
+CREATE TABLE IF NOT EXISTS some_table (id INTEGER PRIMARY KEY AUTOINCREMENT, ...);
+```
+
 
 ## Connexion à une base de données
 

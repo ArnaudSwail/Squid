@@ -22,8 +22,15 @@ var style = new ol.style.Style({
 });
 ```
 
-### Clear features in a vector layer
-https://gis.stackexchange.com/questions/251770/how-can-i-clear-a-vector-layer-features-in-openlayers-4
+- [Moveend sample](https://openlayers.org/en/latest/examples/moveend.html)
+- [Update a feature's coordinates/geometry](https://gis.stackexchange.com/questions/189462/update-a-features-coordinates-geometry)
+- [Detecting map changes](Detecting map changes using Openlayers)
+- [how to get the current zoom in openlayers](https://stackoverflow.com/questions/39017806/how-to-get-the-current-zoom-in-openlayers)
+- [Add feature manually to a vector layer](https://gis.stackexchange.com/questions/153092/add-feature-manually-to-a-vector-layer-in-ol3)
+- [Clear features in a vector layer](https://gis.stackexchange.com/questions/251770/how-can-i-clear-a-vector-layer-features-in-openlayers-4)
+- [Rotate marker Image](https://openlayers.org/en/latest/apidoc/module-ol_style_Icon.html)
 
-### Rotate marker image
-[Rotate marker Image](https://openlayers.org/en/latest/apidoc/module-ol_style_Icon.html)
+[How to add marker to user defined image](https://gis.stackexchange.com/questions/176510/how-to-add-marker-to-user-defined-image-in-openlayers-3)
+[how to add markers with OpenLayers 3](https://stackoverflow.com/questions/24315801/how-to-add-markers-with-openlayers-3)
+
+[How to get the current viewport of the map](https://stackoverflow.com/questions/8988453/how-to-get-the-current-viewport-of-the-map-out-of-openlayers-as-geometry-boundi)
