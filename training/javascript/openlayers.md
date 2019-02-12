@@ -34,3 +34,5 @@ var style = new ol.style.Style({
 [how to add markers with OpenLayers 3](https://stackoverflow.com/questions/24315801/how-to-add-markers-with-openlayers-3)
 
 [How to get the current viewport of the map](https://stackoverflow.com/questions/8988453/how-to-get-the-current-viewport-of-the-map-out-of-openlayers-as-geometry-boundi)
+
+https://openlayers.org/workshop/en/vectortile/map.html

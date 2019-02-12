@@ -68,3 +68,5 @@ db.serialize(function() {
   });
 });
 ```
+
+https://electronjs.org/docs/tutorial/application-distribution

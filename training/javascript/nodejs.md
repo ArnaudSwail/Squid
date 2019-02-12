@@ -37,8 +37,23 @@ Le problème peut être contourné en utilisant le module **byline** qui semble 
 - [Ecrire dans un fichier en nodejs](https://stackoverflow.com/questions/2496710/writing-files-in-node-js)
 
 
+https://stackoverflow.com/questions/8128578/reading-value-from-console-interactively
+
 ## Sqlite3
 [Query](http://www.sqlitetutorial.net/sqlite-nodejs/query/)
 [How to read a sqlite3 database using node js synchronously](https://stackoverflow.com/questions/15575914/how-to-read-a-sqlite3-database-using-node-js-synchronously)
 
 [Controlling the Execution Flow of Statements](http://www.sqlitetutorial.net/sqlite-nodejs/statements-control-flow/)
+
+## Debug
+Avec Chrome:
+```
+chrome-devtools://devtools/bundled/js_app.html?experiments=true&v8only=true&ws=127.0.0.1:9229/
+```
+
+## JSON
+https://stackoverflow.com/questions/5892569/responding-with-a-json-object-in-node-js-converting-object-array-to-json-string
+https://stackoverflow.com/questions/2614862/how-can-i-beautify-json-programmatically
+
+https://stackoverflow.com/questions/13696148/node-js-create-folder-or-use-existing
+w

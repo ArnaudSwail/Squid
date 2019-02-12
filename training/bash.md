@@ -1,5 +1,14 @@
 # bash
 
+Accéder depuis un mac à un répertoire sur un serveur
+https://superuser.com/questions/164624/accessing-shared-directory-path-in-mac-os-x-terminal
+```
+$ cd /Volumes/<Serveur>
+```
+
+Lister tous les répertoires et les fichiers d'un volume
+https://stackoverflow.com/questions/105212/linux-recursively-list-all-files-in-a-directory-including-files-in-symlink-direc
+
 
 
 https://stackoverflow.com/questions/10929453/read-a-file-line-by-line-assigning-the-value-to-a-variable

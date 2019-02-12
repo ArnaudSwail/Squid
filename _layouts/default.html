@@ -21,6 +21,14 @@
   </head>
 
   <body>
+    {% for project in site.projects %}
+    <h2>
+      <a href="{{ project.name }}">{{ project.name }}</a>
+    </h2>
+    <p>{{ project.content | markdownify }}</p>
+    {% endfor %}
+
+
     <header class="page-header" role="banner">
       <img src="./fabloch.png" width="100px" />
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
