@@ -1,16 +1,16 @@
 # OpenStreetMap
 
+Les objets de base de la base de données OSM sont les noeuds (*node*) et les chemins (*way*).
+Les chemins permettent de définir des lignes et des polygones.
 
-
-### L'API d'OpenStreetMap
+## L'API d'OpenStreetMap, Overpass API
 Il est possible d'interroger OpenStreetMap via le bais de requêtes HTTP.
 
 OpenStreetMap utilise un langage spécifique pour la création de requêtes.
 
-OpenSteetMap Overpass API
-http://overpass-turbo.eu/
+[OpenSteetMap Overpass API](http://overpass-turbo.eu/)
 
-
+Requête pour récupérer les zones résidentielles, commerciales et de bureaux
 ```
 (
   way
@@ -30,6 +30,7 @@ http://overpass-turbo.eu/
 out;
 ```
 
+Quelques exemples de définition de zones
 ```
 (
   way
