@@ -35,4 +35,4 @@ var style = new ol.style.Style({
 
 [How to get the current viewport of the map](https://stackoverflow.com/questions/8988453/how-to-get-the-current-viewport-of-the-map-out-of-openlayers-as-geometry-boundi)
 
-https://openlayers.org/workshop/en/vectortile/map.html
+[Vector Tile Layer](https://openlayers.org/workshop/en/vectortile/map.html)
